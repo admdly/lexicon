@@ -40,7 +40,7 @@ packages = [
 python = "^3.6"
 tldextract = "^2"
 future = "^0"
-cryptography = ">=2,<4"
+cryptography = ">=2,<40"
 pyyaml = "^5"
 requests = "^2"
 beautifulsoup4 = "^4"
